@@ -1,5 +1,5 @@
 # Dota2TextToSpeech
-Reads DOTA2 All and Teamchat aloud.
+Reads DOTA2 All and Teamchat aloud, so now I can hear the insults in the voice of a middle-aged British woman.
 
 Idea came from: https://github.com/patriksletmo/Dota2Translator
 Also took his Dota2ChatDLL and modified it a bit.
