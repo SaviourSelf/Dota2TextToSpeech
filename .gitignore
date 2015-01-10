@@ -17,3 +17,9 @@ Debug/Dota2ChatDLL.lib
 Dota2TextToSpeech/bin/Debug/Dota2ChatDLL.dll
 ipch/dota2chatdll-f71c01af/dota2chatdll-db5c7042.ipch
 Debug/Dota2ChatDLL.dll
+*.lastbuildstate
+*.obj
+*.tlog
+*.log
+*.pch
+*.bi
