@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\Desktop\Dota2Translator-master\Dota2ChatDLL\Dota2ChatDLL.vcxproj">
+    <ProjectReference Include="..\..\Dota2ChatDLL\Dota2ChatDLL.vcxproj">
       <Project>{f50e82e7-9ce9-472d-8437-371b6018a1dc}</Project>
       <Name>Dota2ChatDLL</Name>
     </ProjectReference>
