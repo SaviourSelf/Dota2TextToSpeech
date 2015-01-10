@@ -5,7 +5,9 @@ Idea came from: https://github.com/patriksletmo/Dota2Translator
 
 * I took his Dota2ChatDLL and modified it a bit. 
 
-* I also removed translation. I disagree with the way this was done.
+* I removed translation. I disagree with the way this was done.
+
+* I edited DOTA_TV chat.     ....it sometimes works.
 
 Please give all credit to patriksletmo.
 
