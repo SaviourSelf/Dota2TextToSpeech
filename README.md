@@ -19,7 +19,7 @@ To build:
 
     If you downloaded the 2012 version of Visual Studio you have to change the platform toolset of the project Dota2ChatDLL.
 
-2. Right-click on each project, navigate to properties and changw "Platform Toolset" to "Visual Studio 2012 (v110).
+2. Right-click on each project, navigate to properties and change "Platform Toolset" to "Visual Studio 2012 (v11.0)
 
     While this enables you to build the project without installing Visual Studio 2010, it will result in end users having to        download the Visual C++ 2012 Redistributable instead of the 2010 version.
 
